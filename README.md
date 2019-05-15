@@ -1,2 +1,2 @@
 # glprojects
-Just a bunch of OpenGL code I wrote as exercices.
+Just a bunch of OpenGL code I wrote as exercises.
